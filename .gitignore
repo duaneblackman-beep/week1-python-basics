@@ -1,0 +1,9 @@
+# Never commit these
+.env
+*.key
+*secret*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
