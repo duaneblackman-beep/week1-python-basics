@@ -133,7 +133,8 @@ if vpn_connected and not office_network:
     print("Remote access OK")
 elif office_network:
     print("On-site access OK")
-else:    print("No access") 
+else:
+    print("No access")
 
 # EXERCISE 3:
 # Take the grade calculator from day 1 and rewrite calculate_grade()
