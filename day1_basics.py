@@ -40,7 +40,7 @@ print("15 // 4 =", 15 // 4)  # integer division
 print("15 % 4 =", 15 % 4)    # remainder
 print("2 ** 8 =", 2 ** 8)    # exponent
 # --- User Input ---
-user_name = input("What is your name? ")
+user_name = input("What is your name?")
 print("Hello,", user_name)
 print("Hello",name,"I see your age is", age , "and you live in", Country, "your hourly rate is", hourly_rate)
 
